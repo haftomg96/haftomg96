@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello,This Is Haftom:
 🔭 I’m currently working on Fullstack development<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning AWS<br>💬 Ask me about Nuxt3 <br>
 
 

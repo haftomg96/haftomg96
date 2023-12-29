@@ -1,5 +1,5 @@
 # 💫 Hello,This Is Haftom:
-🔭 I’m currently working on Fullstack development<br>👯 Always ready for collaboration<br>🌱 I’m currently learning AWS<br>💬 Ask me about Nuxt3 <br>
+🔭 Currently working on Fullstack development<br>👯 Always ready for collaboration<br>🌱 Open to continuous learning and passionate about staying up-to-date with latest technologies<br>💬 Ask me about Nuxt3 <br>
 
 
 ## 🌐 Socials:
